@@ -52,4 +52,4 @@ export default tseslint.config({
 ```
 # Points
 * icons created by Those Icons - Flaticon "https://www.flaticon.com/free-icons/heart"
-* 
+* A basic lvl cloning with props , useState , useEffect  used  and for data i used api from  fakeapi website
